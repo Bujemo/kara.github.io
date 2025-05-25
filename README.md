@@ -1,6 +1,6 @@
 # 👋 Hallo, ich bin Ümit KARA – Softwareentwickler & Teamlead
 
-Ich bin leidenschaftlicher Softwareentwickler mit über 8 Jahren Erfahrung in der Produktentwicklung – von komplexen Webanwendungen bis hin zu Windows-Diensten mit Bus-Kommunikation. Derzeit leite ich ein kleines Entwicklerteam.
+Ich bin leidenschaftlicher Softwareentwickler mit über 10 Jahren Erfahrung in der Produktentwicklung – von komplexen Webanwendungen bis hin zu Windows-Diensten mit Bus-Kommunikation. Derzeit leite ich ein kleines Entwicklerteam.
 
 Mein Fokus liegt auf nachhaltiger Softwarearchitektur, Domain-Driven Design (DDD) und der Modernisierung langlebiger Systeme. Ich liebe es, komplexe Probleme strukturiert zu analysieren, performante Lösungen zu entwickeln und langlebige Produkte kontinuierlich weiterzuentwickeln.
 
