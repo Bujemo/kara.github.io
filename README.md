@@ -22,5 +22,5 @@ Mein Fokus liegt auf nachhaltiger Softwarearchitektur, Domain-Driven Design (DDD
 ## 📫 Kontakt
 
 Ich freue mich über fachlichen Austausch und spannende Projekte:  
-📧 kara@intadmin.de  
+📧 kontakt@intadmin.de  
 🔗 [LinkedIn-Profil](https://www.linkedin.com/in/ümit-kara-594022368)
